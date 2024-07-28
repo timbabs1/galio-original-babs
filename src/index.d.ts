@@ -8,7 +8,7 @@ import {
   TextInputProps,
 } from 'react-native';
 
-declare module 'galio-framework' {
+declare module 'galio-framework-original-babs' {
   type IconFamilyType =
     | 'Galio'
     | 'AntDesign'
